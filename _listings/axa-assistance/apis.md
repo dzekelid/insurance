@@ -24,7 +24,7 @@ apis:
   tags: Insurance
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/user-v1-identities-identity-id-channels-confirm-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/assistance-v1-home-electric-damage-declarations-declaration-id-confirm-post.md
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/axa-assitance
