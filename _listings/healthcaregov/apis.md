@@ -30,7 +30,7 @@ apis:
   tags: Insurance
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/healthcaregov/api-glossary-mediatypeextension-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/healthcaregov/api-questions-mediatypeextension-get.md
 x-common:
 - type: x-developer
   url: http://www.healthcare.gov/developers
