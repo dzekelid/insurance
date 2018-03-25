@@ -24,7 +24,7 @@ apis:
   tags: Insurance
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/information-vexp-roadside-workshops-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/network-v1-medical-providers-availabilities-get.md
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/axa-assitance
