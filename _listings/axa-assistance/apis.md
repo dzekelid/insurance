@@ -24,7 +24,7 @@ apis:
   tags: Insurance
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/insurance-vexp-delayed-luggage-claims-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/insurance-vexp-delayed-trip-claims-post.md
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/axa-assitance
