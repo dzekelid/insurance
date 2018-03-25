@@ -24,7 +24,7 @@ apis:
   tags: Insurance
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/sales-v1-individual-travel-certificates-certificate-id-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/service-v1-medical-consultations-medical-consultation-id-prescriptions-prescription-id-get.md
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/axa-assitance
