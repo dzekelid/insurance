@@ -24,7 +24,7 @@ apis:
   tags: Insurance
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/service-vexp-roadside-assignments-assignment-id-rate-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/service-vexp-roadside-assignments-assignment-id-confirm-post.md
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/axa-assitance
