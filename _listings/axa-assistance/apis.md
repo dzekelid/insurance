@@ -53,17 +53,17 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/sales-v1-individual-appliance-certificates-post.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/sales-v1-individual-appliance-certificates-post-postman.md
-- name: AXA Assistance Confirm identity password change
-  description: Confirm identity password change
+- name: AXA Assistance Confirm identity registration
+  description: Confirm identity registration
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg
   humanURL: https://www.axa-assistance.com
   baseURL: https://sandbox.api.axa-assistance.com//
   tags: Insurance
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/user-v1-identities-forgot-password-confirm-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/user-v1-identities-register-confirm-post.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/user-v1-identities-forgot-password-confirm-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/user-v1-identities-register-confirm-post-postman.md
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/axa-assitance
