@@ -1,9 +1,8 @@
 ---
 swagger: "2.0"
 info:
-  title: AXA Assistance
-  description: AXA Assistance is a worldwide specialist for car insurance, travel,
-    health and home services. Trust in Axa Assistance for your insurance!
+  title: AXA Assistance Resends the confirmation email to an identity account
+  description: Resends the confirmation email to an identity account
   version: 1.0.0
 host: sandbox.api.axa-assistance.com
 basePath: /
