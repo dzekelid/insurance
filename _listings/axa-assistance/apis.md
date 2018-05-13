@@ -25,17 +25,17 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/assistance-v1-home-water-damage-declarations-declaration-id-policy-holders-policy-holder-id-patch.md
-- name: AXA Assistance Retrieve security information for a country
-  description: Retrieve security information for a country
+- name: AXA Assistance Retrieve health information for a country
+  description: Retrieve health information for a country
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg
   humanURL: https://www.axa-assistance.com
   baseURL: https://sandbox.api.axa-assistance.com//
   tags: Insurance
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/information-v1-countries-country-id-security-cards-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/information-v1-countries-country-id-health-cards-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/information-v1-countries-country-id-security-cards-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/information-v1-countries-country-id-health-cards-get-postman.md
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/axa-assitance
