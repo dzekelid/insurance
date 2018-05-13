@@ -1,9 +1,8 @@
 ---
 swagger: "2.0"
 info:
-  title: AXA Assistance
-  description: AXA Assistance is a worldwide specialist for car insurance, travel,
-    health and home services. Trust in Axa Assistance for your insurance!
+  title: AXA Assistance Create new individual travel policy for sales
+  description: Create new individual travel policy for sales
   version: 1.0.0
 host: sandbox.api.axa-assistance.com
 basePath: /
