@@ -25,17 +25,19 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/assistance-v1-home-water-damage-declarations-declaration-id-policy-holders-policy-holder-id-patch.md
-- name: AXA Assistance Gets assignment information.
-  description: Gets assignment information.
+- name: AXA Assistance Get appliance (Extended warranty, purchase insurance ) certificate
+    details.
+  description: Get appliance (Extended warranty, purchase insurance ) certificate
+    details.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg
   humanURL: https://www.axa-assistance.com
   baseURL: https://sandbox.api.axa-assistance.com//
   tags: Insurance
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/service-vexp-roadside-assignments-assignment-id-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/sales-v1-individual-appliance-certificates-certificate-id-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/service-vexp-roadside-assignments-assignment-id-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/sales-v1-individual-appliance-certificates-certificate-id-get-postman.md
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/axa-assitance
