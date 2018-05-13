@@ -31,7 +31,7 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/healthcaregov/statename-mediatypeextension-get.md
-- name: Healthcare.gov Get API Blog Media Type Extension
+- name: Healthcare.gov Get API Glossary Media Type Extension
   description: Returns pages content.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Healthcare.gov_logo.png
   humanURL: http://www.healthcare.gov
@@ -39,9 +39,9 @@ apis:
   tags: Insurance
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/healthcaregov/api-blog-mediatypeextension-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/healthcaregov/api-glossary-mediatypeextension-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/healthcaregov/api-blog-mediatypeextension-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/healthcaregov/api-glossary-mediatypeextension-get-postman.md
 x-common:
 - type: x-developer
   url: http://www.healthcare.gov/developers
