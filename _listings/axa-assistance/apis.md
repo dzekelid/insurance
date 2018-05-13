@@ -53,7 +53,34 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/sales-v1-individual-appliance-certificates-post.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/sales-v1-individual-appliance-certificates-post-postman.md
+- name: AXA Assistance Requests the activation of a car rental certificate linked
+    to a product. At least one product_criteria has to be specified to identify the
+    product to which to subscribe. If the user already holds a certificate, this api
+    will update its personal infor
+  description: Requests the activation of a car rental certificate linked to a product.
+    At least one product_criteria has to be specified to identify the product to which
+    to subscribe. If the user already holds a certificate, this api will update its
+    personal infor
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg
+  humanURL: https://www.axa-assistance.com
+  baseURL: https://sandbox.api.axa-assistance.com//
+  tags: Insurance
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/sales-v1-individual-car-rental-certificates-post.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/sales-v1-individual-car-rental-certificates-post-postman.md
 x-common:
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/axa-assitance
+- type: x-developer
+  url: https://developers.axa-assistance.com/
+- type: x-documentation
+  url: https://developers.axa-assistance.com/docs
+- type: x-twitter
+  url: https://twitter.com/AXA_Assistance
+- type: x-website
+  url: https://www.axa-assistance.com
 - type: x-crunchbase
   url: https://crunchbase.com/organization/axa-assitance
 - type: x-developer
