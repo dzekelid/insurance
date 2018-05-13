@@ -1,9 +1,8 @@
 ---
 swagger: "2.0"
 info:
-  title: AXA Assistance
-  description: AXA Assistance is a worldwide specialist for car insurance, travel,
-    health and home services. Trust in Axa Assistance for your insurance!
+  title: AXA Assistance Gets the policy holders details for the electric damage
+  description: Gets the policy holders details for the electric damage
   version: 1.0.0
 host: sandbox.api.axa-assistance.com
 basePath: /
