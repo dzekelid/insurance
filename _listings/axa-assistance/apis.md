@@ -53,17 +53,17 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/sales-v1-individual-appliance-certificates-post.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/sales-v1-individual-appliance-certificates-post-postman.md
-- name: AXA Assistance Cancels a medical consultation
-  description: Cancels a medical consultation
+- name: AXA Assistance Search quotes for a roadside service.
+  description: Search quotes for a roadside service.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg
   humanURL: https://www.axa-assistance.com
   baseURL: https://sandbox.api.axa-assistance.com//
   tags: Insurance
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/service-v1-medical-consultations-medical-consultation-id-cancel-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/service-vexp-roadside-quotes-search-post.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/service-v1-medical-consultations-medical-consultation-id-cancel-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/service-vexp-roadside-quotes-search-post-postman.md
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/axa-assitance
