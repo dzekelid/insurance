@@ -1,9 +1,14 @@
 ---
 swagger: "2.0"
 info:
-  title: AXA Assistance
-  description: AXA Assistance is a worldwide specialist for car insurance, travel,
-    health and home services. Trust in Axa Assistance for your insurance!
+  title: AXA Assistance Requests the activation of a certificate either to cover an
+    appliance purchased or to extend the warranty period of an appliance purchased.
+    At least one product_criteria has to be specified to identify the product to which
+    to subscribe. This endpoint
+  description: Requests the activation of a certificate either to cover an appliance
+    purchased or to extend the warranty period of an appliance purchased. At least
+    one product_criteria has to be specified to identify the product to which to subscribe.
+    This endpoint
   version: 1.0.0
 host: sandbox.api.axa-assistance.com
 basePath: /
