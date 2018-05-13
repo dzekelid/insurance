@@ -36,9 +36,9 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/user-v1-identities-identity-id-channels-sms-get.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/user-v1-identities-identity-id-channels-sms-get-postman.md
-- name: AXA Assistance Gets the information linked to the policy holder of the locksmithing
-    damage declaration
-  description: Gets the information linked to the policy holder of the locksmithing
+- name: AXA Assistance Gets the information related to each the policy holder of the
+    water damage declaration
+  description: Gets the information related to each the policy holder of the water
     damage declaration
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg
   humanURL: https://www.axa-assistance.com
@@ -46,9 +46,9 @@ apis:
   tags: Insurance
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/assistance-v1-home-locksmithing-damage-declarations-declaration-id-policy-holders-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/assistance-v1-home-water-damage-declarations-declaration-id-policy-holders-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/assistance-v1-home-locksmithing-damage-declarations-declaration-id-policy-holders-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/assistance-v1-home-water-damage-declarations-declaration-id-policy-holders-get-postman.md
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/axa-assitance
