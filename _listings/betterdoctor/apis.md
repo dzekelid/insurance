@@ -29,7 +29,46 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/betterdoctor/insurances-get.md
+- name: BetterDoctor Retrieve insurance providers and plans
+  description: Insurance provider & plan list
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18991-betterdoctor.jpg
+  humanURL: https://developer.betterdoctor.com
+  baseURL: https://api.betterdoctor.com//2016-03-01
+  tags: Insurance
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/betterdoctor/insurances-get.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/betterdoctor/insurances-get-postman.md
 x-common:
+- type: x-blog
+  url: https://betterdoctor.com/health/
+- type: x-blog-rss
+  url: https://betterdoctor.com/health/feed/
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/betterdoctor-inc
+- type: x-developer
+  url: https://developer.betterdoctor.com
+- type: x-email
+  url: hello@betterdoctor.com
+- type: x-email
+  url: press@betterdoctor.com
+- type: x-email
+  url: tony@betterdoctor.com
+- type: x-email
+  url: privacy@betterdoctor.com
+- type: x-email
+  url: support@betterdoctor.com
+- type: x-email
+  url: copyright@betterdoctor.com
+- type: x-github
+  url: https://github.com/betterdoctor
+- type: x-twitter
+  url: https://twitter.com/betterdoctor
+- type: x-website
+  url: https://developer.betterdoctor.com
+- type: x-website
+  url: https://betterdoctor.com
 - type: x-blog
   url: https://betterdoctor.com/health/
 - type: x-blog-rss
