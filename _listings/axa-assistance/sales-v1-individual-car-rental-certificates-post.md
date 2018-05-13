@@ -1,9 +1,14 @@
 ---
 swagger: "2.0"
 info:
-  title: AXA Assistance
-  description: AXA Assistance is a worldwide specialist for car insurance, travel,
-    health and home services. Trust in Axa Assistance for your insurance!
+  title: AXA Assistance Requests the activation of a car rental certificate linked
+    to a product. At least one product_criteria has to be specified to identify the
+    product to which to subscribe. If the user already holds a certificate, this api
+    will update its personal infor
+  description: Requests the activation of a car rental certificate linked to a product.
+    At least one product_criteria has to be specified to identify the product to which
+    to subscribe. If the user already holds a certificate, this api will update its
+    personal infor
   version: 1.0.0
 host: sandbox.api.axa-assistance.com
 basePath: /
