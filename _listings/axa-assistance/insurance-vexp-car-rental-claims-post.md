@@ -1,9 +1,8 @@
 ---
 swagger: "2.0"
 info:
-  title: AXA Assistance
-  description: AXA Assistance is a worldwide specialist for car insurance, travel,
-    health and home services. Trust in Axa Assistance for your insurance!
+  title: AXA Assistance Requests to create a claim related to a car rental.
+  description: Requests to create a claim related to a car rental.
   version: 1.0.0
 host: sandbox.api.axa-assistance.com
 basePath: /
