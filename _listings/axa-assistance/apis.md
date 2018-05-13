@@ -26,8 +26,8 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/assistance-v1-home-water-damage-declarations-declaration-id-policy-holders-policy-holder-id-patch.md
 - name: AXA Assistance Provide basic details about the current deployed version of
-    the insurance API
-  description: Provide basic details about the current deployed version of the insurance
+    the network API
+  description: Provide basic details about the current deployed version of the network
     API
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg
   humanURL: https://www.axa-assistance.com
@@ -35,9 +35,9 @@ apis:
   tags: Insurance
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/insurance-version-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/network-version-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/insurance-version-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/network-version-get-postman.md
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/axa-assitance
