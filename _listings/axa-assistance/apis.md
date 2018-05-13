@@ -36,17 +36,17 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/user-v1-identities-identity-id-channels-sms-get.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/user-v1-identities-identity-id-channels-sms-get-postman.md
-- name: AXA Assistance Register identity
-  description: Register identity
+- name: AXA Assistance Create a declaration for an electric damage
+  description: Create a declaration for an electric damage
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg
   humanURL: https://www.axa-assistance.com
   baseURL: https://sandbox.api.axa-assistance.com//
   tags: Insurance
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/user-v1-identities-register-post.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/assistance-v1-home-electric-damage-declarations-post.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/user-v1-identities-register-post-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/assistance-v1-home-electric-damage-declarations-post-postman.md
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/axa-assitance
