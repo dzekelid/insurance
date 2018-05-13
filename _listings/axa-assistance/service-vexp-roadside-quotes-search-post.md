@@ -1,9 +1,8 @@
 ---
 swagger: "2.0"
 info:
-  title: AXA Assistance
-  description: AXA Assistance is a worldwide specialist for car insurance, travel,
-    health and home services. Trust in Axa Assistance for your insurance!
+  title: AXA Assistance Search quotes for a roadside service.
+  description: Search quotes for a roadside service.
   version: 1.0.0
 host: sandbox.api.axa-assistance.com
 basePath: /
