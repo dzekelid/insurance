@@ -1,0 +1,261 @@
+{
+	"name": "Streadata.io API Gallery - Insurance",
+	"description": "This is a repository of insurance APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/insurance.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://insurance.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "eligible",
+			"x-api-slug": "eligible",
+			"description": "Eligible seamlessly integrates with healthcare systems to provide real time eligibility functionality via modern APIs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/189-eligible.jpg",
+			"humanURL": "https://eligible.com",
+			"baseURL": "https:///",
+			"tags": "Insurance",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/eligible/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Healthcare.gov",
+			"x-api-slug": "healthcare-gov",
+			"description": "HealthCare.gov is a health insurance exchange website operated under the United States federal government under the provisions of the Patient Protection and Affordable Care Act (ACA, often known as Obamacare), designed to serve the residents of the thirty-six U.S. states that opted not to create their own state exchanges. The exchange facilitates the sale of private health insurance plans to residents of the United States[2] and offers subsidies to those who earn less than four times the federal poverty line. The website also assists those persons who are eligible to sign up for Medicaid, and has a separate marketplace for small businesses.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Healthcare.gov_logo.png",
+			"humanURL": "http://www.healthcare.gov",
+			"baseURL": "https://www.healthcare.gov//",
+			"tags": "Insurance",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/healthcare-gov/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Oscar Health",
+			"x-api-slug": "oscar-health",
+			"description": "",
+			"image": "http://pbs.twimg.com/profile_images/664877049467678720/ZN5QUlP1_normal.png",
+			"humanURL": "https://www.hioscar.com/",
+			"baseURL": "https:///",
+			"tags": "Insurance",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/oscar-health/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "BetterDoctor",
+			"x-api-slug": "betterdoctor",
+			"description": "BetterDoctor helps people find and connect to the best doctors through our consumer app, doctor marketing services, and API. Our mission is to help increase transparency in healthcare and help consumers make better decisions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18991-betterdoctor.jpg",
+			"humanURL": "https://developer.betterdoctor.com",
+			"baseURL": "https://api.betterdoctor.com//2016-03-01",
+			"tags": "Insurance",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/betterdoctor/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Flock",
+			"x-api-slug": "flock",
+			"description": "",
+			"image": "",
+			"humanURL": "http://www.flyflock.io/",
+			"baseURL": "https:///",
+			"tags": "Insurance",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/flock/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bank of America",
+			"x-api-slug": "bank-of-america",
+			"description": "Welcome to Bank of America, home for all of your financial needs. Our purpose is to help make financial lives better through the power of every connection.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28101-about-bankofamerica-com.jpg",
+			"humanURL": "https://bankofamerica.com",
+			"baseURL": "https:///",
+			"tags": "Insurance",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/bank-of-america/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Danske Bank",
+			"x-api-slug": "danske-bank",
+			"description": "Danske Bank is a Danish bank whose name also literally translates into Danish Bank. It was founded 5 October 1871 as Den Danske Landmandsbank, Hypothek- og Vexelbank i Kjbenhavn (The Danish Farmers Bank, Mortgage and Exchange Bank of Copenhagen). Headquartered in Copenhagen, it is the largest bank in Denmark and a major retail bank in the northern European region with over 5 million retail customers. Danske Bank was number 454 on the Fortune Global 500 list for 2011.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28107-danske-bank.jpg",
+			"humanURL": "https://danskebank.com",
+			"baseURL": "https://obp-data.danskebank.com/open-banking/v2.1/",
+			"tags": "Insurance",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/danske-bank/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "OCBC Bank",
+			"x-api-slug": "ocbc-bank",
+			"description": "The OCBC Bank group comprises a family of companies owned by Singapores longest established local bank. To address the diversity across cultures and geographies, OCBC Bank has expanded and acquired entities beyond the world of traditional commercial banking. By understanding our customers needs, we develop convenient and effective technologies to improve the user experience. Today, through APIs that are simple to manage, we offer this convenience to you.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28117-ocbc-bank.jpg",
+			"humanURL": "https://api.ocbc.com",
+			"baseURL": "https:///",
+			"tags": "Insurance",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/ocbc-bank/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Lifen",
+			"x-api-slug": "lifen",
+			"description": "Lifen est votre messagerie mdicale simple et scurise. Envoyez et recevez des courriers mdicaux entre professionnels de sant. Dmatrialisez jusqu 80% des envois de comptes rendus. Compatible avec tous les logiciels de cabinet et tous les outils ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28166-developers-lifen-fr.jpg",
+			"humanURL": "http://lifen.fr",
+			"baseURL": "https:///",
+			"tags": "Insurance",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/lifen/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AXA Assistance",
+			"x-api-slug": "axa-assistance",
+			"description": "AXA Assistance is a worldwide specialist for car insurance, travel, health and home services. Trust in Axa Assistance for your insurance!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg",
+			"humanURL": "https://www.axa-assistance.com",
+			"baseURL": "https://sandbox.api.axa-assistance.com//",
+			"tags": "Insurance",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Stillwater Insurance",
+			"x-api-slug": "stillwater-insurance",
+			"description": "Stillwater Insurance Group provides peace of mind and security when you???re looking to protect your auto, home, rental properties, business or other assets.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28188-api-stillwaterinsurance-com.jpg",
+			"humanURL": "https://api.stillwaterinsurance.com",
+			"baseURL": "https:///",
+			"tags": "Insurance",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/stillwater-insurance/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Fidelity Investments",
+			"x-api-slug": "fidelity-investments",
+			"description": "Fidelity Investments offers Financial Planning and Advice, Retirement Plans, Wealth Management Services, Trading and Brokerage services, and a wide range of investment products including Mutual Funds, ETFs, Fixed income Bonds and CDs and much more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28319-www-fidelity-com.jpg",
+			"humanURL": "https://www.fidelity.com",
+			"baseURL": "https:///",
+			"tags": "Insurance",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/fidelity-investments/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "IBM Financial Crimes Insight for Insurance",
+			"x-api-slug": "ibm-financial-crimes-insight-for-insurance",
+			"description": "IBM&reg; Financial Crimes Insight&reg; for Insurance V3.0, formerly known as IBM Counter Fraud Management for Insurance, is now being offered as a cloud service offering. It helps organizations analyze data to determine the fraud risk of claims, medical providers, and other business entities, manage the full investigation lifecycle, and report on outcomes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/WFS-Counter-Fraud-Technical-Level-3.png",
+			"humanURL": "https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?infotype=AN&subtype=CA&htmlfid=897/ENUS218-305&appname=USN",
+			"baseURL": "https://fcihost.ibm.com:9443//",
+			"tags": "Insurance",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/ibm-financial-crimes-insight-for-insurance/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Insurance",
+	"include": [
+		{
+			"name": "eligible",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/eligible/apis.yaml"
+		},
+		{
+			"name": "Healthcare.gov",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/healthcare-gov/apis.yaml"
+		},
+		{
+			"name": "Oscar Health",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/oscar-health/apis.yaml"
+		},
+		{
+			"name": "BetterDoctor",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/betterdoctor/apis.yaml"
+		},
+		{
+			"name": "Flock",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/flock/apis.yaml"
+		},
+		{
+			"name": "Bank of America",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/bank-of-america/apis.yaml"
+		},
+		{
+			"name": "Danske Bank",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/danske-bank/apis.yaml"
+		},
+		{
+			"name": "OCBC Bank",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/ocbc-bank/apis.yaml"
+		},
+		{
+			"name": "Lifen",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/lifen/apis.yaml"
+		},
+		{
+			"name": "AXA Assistance",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/axa-assistance/apis.yaml"
+		},
+		{
+			"name": "Stillwater Insurance",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/stillwater-insurance/apis.yaml"
+		},
+		{
+			"name": "Fidelity Investments",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/fidelity-investments/apis.yaml"
+		},
+		{
+			"name": "IBM Financial Crimes Insight for Insurance",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/ibm-financial-crimes-insight-for-insurance/apis.yaml"
+		}
+	]
+}

@@ -8,36 +8,29 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18991-bett
 x-kinRank: "8"
 x-alexaRank: "625342"
 tags: Insurance
-created: "2018-06-25"
-modified: "2018-06-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/betterdoctor/apis.md
 specificationVersion: "0.14"
 apis:
-- name: BetterDoctor Retrieve insurance providers and plans
-  x-api-slug: betterdoctor
+- name: BetterDoctor - Retrieve insurance providers and plans
+  x-api-slug: insurances-get
   description: Insurance provider & plan list
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18991-betterdoctor.jpg
   humanURL: https://developer.betterdoctor.com
-  baseURL: https://api.betterdoctor.com//2016-03-01//insurances
-  tags: Insurance
+  baseURL: https://api.betterdoctor.com//2016-03-01
+  tags: Healthcare, Doctors, Technology, SaaS, Mobile, Insurance, API Provider, Profiles,
+    General Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/betterdoctor/insurances-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/betterdoctor/insurances-get-openapi.md
-- name: BetterDoctor
-  x-api-slug: betterdoctor
-  description: BetterDoctor helps people find and connect to the best doctors through
-    our consumer app, doctor marketing services, and API. Our mission is to help increase
-    transparency in healthcare and help consumers make better decisions.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18991-betterdoctor.jpg
-  humanURL: https://developer.betterdoctor.com
-  baseURL: https://api.betterdoctor.com//2016-03-01
-  tags: Insurance
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/insurance/master/_listings/betterdoctor/openapi.md
 x-common:
+- type: x-api-gallery
+  url: http://bc.route.planner.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://betterdoctor.stack.network
 - type: x-blog
   url: https://betterdoctor.com/health/
 - type: x-blog-rss
